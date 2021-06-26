@@ -1,0 +1,171 @@
+body{
+	margin: 0px;
+	text-align: center;
+}
+h1{
+	font-size: 50px;
+	margin: 0px;
+	top: 60px;
+}
+.web{
+	font-size: 40px;
+	margin: 0px;
+	top: 80px;
+}
+
+.head{
+	font-family: 'Great Vibes', cursive;
+	margin: 0px;
+	color: darkred;
+	background-color: lightyellow;
+	width: 100%;
+	height: 100%;
+	padding-top: 100px;
+	position: relative;
+}
+.image1{
+	height: 100px;
+	width: 100px;
+	position: absolute;
+       top: 20px;
+       right: 300px;
+       border-radius: 100%;
+}
+.image2{
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	top: 200px;
+	left: 500px;
+}
+.image3{
+	margin-top: 200px;
+	height: 400px;
+	width: 20%;
+	position: relative;
+	left: 400px;
+	bottom: 100px;
+}
+.image4{
+	height: 100px;
+	width: 100px;
+	position: relative;
+	right: 650px;
+	bottom: 200px;
+}
+.body-image{
+	border-radius: 100%;
+	height: 200px;
+	margin-top: 50px;
+}
+hr{
+        border-style: dotted;
+        border-color: darkgrey;
+        height: 5%;
+        width: 10%;
+        border-width: 10px;
+        border-bottom-style: hidden;
+        border-left-style: hidden;
+        border-right-style: hidden;
+}
+.body{
+	font-family: 'EB Garamond', serif;
+	font-size: 20px;
+}
+.webdeveloperdiv{
+	height: 300px;
+	width: 500px;
+	margin: 0 auto;
+	text-align: left;
+}
+.webdeveloper{
+	height: 200px;
+	width: 200px;
+	border-radius: 100%;
+	margin-right: 20px;
+	float: left;
+}
+.androiddeveloperdiv{
+	height: 300px;
+	width: 450px;
+	margin: 0 auto;
+	text-align: left;
+}
+.androiddeveloper{
+	height: 200px;
+	width: 200px;
+	border-radius: 100%;
+	float: right;
+	margin-left: 20px;
+}
+.competitivecoderdiv{
+	height: 300px;
+	width: 450px;
+	margin: 0 auto;
+	text-align: left;
+}
+.competitivecoder{
+	height: 200px;
+	width: 200px;
+	border-radius: 100%;
+	float: left;
+	margin-right: 20px;
+}
+h3{
+	color: darkred;
+}
+h2{
+	color: darkred;;
+}
+.contact{
+	margin-top: 60px;
+	padding-top: 40px;
+	background-color:lightyellow ;
+	height: 100px;
+	width: 100%;
+}
+a{
+	 font-size: 20px;
+	 color: deepskyblue;
+	 margin: 0px;
+	 margin-left: 20px;
+	 margin-right: 20px;
+	 height: 100px;
+   line-height:2;
+   text-decoration: none;
+}
+
+a:hover {
+  color: silver;
+}
+.btn {
+	margin-top: 60px;
+  background: #406e8c;
+  background-image: -webkit-linear-gradient(top, #406e8c, #3aabf2);
+  background-image: -moz-linear-gradient(top, #406e8c, #3aabf2);
+  background-image: -ms-linear-gradient(top, #406e8c, #3aabf2);
+  background-image: -o-linear-gradient(top, #406e8c, #3aabf2);
+  background-image: linear-gradient(to bottom, #406e8c, #3aabf2);
+  -webkit-border-radius: 18;
+  -moz-border-radius: 18;
+  border-radius: 18px;
+  -webkit-box-shadow: 1px 7px 4px #c9c1c9;
+  -moz-box-shadow: 1px 7px 4px #c9c1c9;
+  box-shadow: 1px 7px 4px #c9c1c9;
+  font-family: Georgia;
+  color: #ffdbff;
+  font-size: 39px;
+  padding: 15px;
+  border: solid #9fb1bd 5px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #6b0e28;
+  background-image: -webkit-linear-gradient(top, #6b0e28, #ed4011);
+  background-image: -moz-linear-gradient(top, #6b0e28, #ed4011);
+  background-image: -ms-linear-gradient(top, #6b0e28, #ed4011);
+  background-image: -o-linear-gradient(top, #6b0e28, #ed4011);
+  background-image: linear-gradient(to bottom, #6b0e28, #ed4011);
+  text-decoration: none;
+}
